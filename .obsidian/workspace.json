@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "c74845b408e3e43c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8158e928aeb1da80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fd6f38d0afba04f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zaklínač I. Poslední Přání - Sapkowski.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2d4c105f38363d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b89a66ae1f7c0cae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1317fb01ea014b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7c3fa72bf0c670d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6b23336c855d0cd8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "36de689b384b58d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f10877d2342536f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20112fe69ad515f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Zaklínač I. Poslední Přání - Sapkowski.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29957419728dc8f9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Zaklínač I. Poslední Přání - Sapkowski.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f70329d43a983646",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "345890e136f3ff41",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Zaklínač I. Poslední Přání - Sapkowski.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4fd6f38d0afba04f",
+  "lastOpenFiles": [
+    "Zaklínač I. Poslední Přání - Sapkowski.md"
+  ]
+}
