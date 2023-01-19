@@ -2,10 +2,10 @@
 
 Vypracované maturitní deníky pro rok 2023
 ## Seznam:
-- **Česká a světová literatura do konce 18. století**
+**Česká a světová literatura do konce 18. století**
 
-  1. Moliére - Lakomec
-  2. Shakespear - Romeo a Julie
+1. Moliére - Lakomec
+2. Shakespear - Romeo a Julie
 
 - **Světová literatura 19. století**
 
