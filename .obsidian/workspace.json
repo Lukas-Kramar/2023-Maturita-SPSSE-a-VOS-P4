@@ -18,8 +18,105 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "42fae3cdde26bf38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bílá nemoc - Čapek.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10e8eaf93aaef62f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evžen Oněgin - Puškin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30b58b53ee6b38e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Malý princ - Saint-Exupéry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e819190ef77c2d55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsluhoval jsem anglického krále - Hrabal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ae854dc91648c9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ostře sledované vlaky - Hrabal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a3c23c0d5d1f90c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kulička - Maupassant.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e3725ce19378e88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Na západní frontě klid - Remarque.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71518b4cbe311b36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stařec a moře - Hemingway.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -70,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 216.5,
+    "collapsed": true
   },
   "right": {
     "id": "36de689b384b58d4",
@@ -86,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zaklínač I. Poslední Přání - Sapkowski.md",
+                "file": "Stařec a moře - Hemingway.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zaklínač I. Poslední Přání - Sapkowski.md",
+                "file": "Stařec a moře - Hemingway.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zaklínač I. Poslední Přání - Sapkowski.md"
+                "file": "Stařec a moře - Hemingway.md"
               }
             }
           }
@@ -147,8 +245,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fd6f38d0afba04f",
+  "active": "71518b4cbe311b36",
   "lastOpenFiles": [
+    "Na západní frontě klid - Remarque.md",
+    "Stařec a moře - Hemingway.md",
+    "Untitled.md",
+    "Kulička - Maupassant.md",
+    "Obsluhoval jsem anglického krále - Hrabal.md",
+    "Ostře sledované vlaky - Hrabal.md",
+    "Malý princ - Saint-Exupéry.md",
+    "Evžen Oněgin - Puškin.md",
+    "Bílá nemoc - Čapek.md",
     "Zaklínač I. Poslední Přání - Sapkowski.md"
   ]
 }

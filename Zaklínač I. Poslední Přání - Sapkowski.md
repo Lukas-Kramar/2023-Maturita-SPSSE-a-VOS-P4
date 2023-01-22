@@ -3,16 +3,32 @@
 
 Andrzej Sapkowski
 
-**O autorovi:** Andrzej Sapkowki, narozen 21. června 1948 v Polsku, je považován za jednoho z nejlepších fantasy spisovatelů současnosti. Jeho knihy jsou mezinárodně známé a daly vzniknout 2 seriálům, filmu a trilogii her. Novější seriál od Netflixu byl společně s hrami vytvořen se Sapkowskiho souhlasem, neboť jim prodal autorská práva. Hry se odehrávají až po celém příběhu knih.
- Sapkowski měl už od mala nadání pro jazyky, a proto po vystudování vysoké školy začal pracovat v oblasti zahraničního obchodu. První povídku s názvem Zaklínač publikoval ve svých 38 letech v magazínu Fantastyke. Postava bělovlasého hrdiny se ihned ujala a již po dvou letech byl Sapkowski řazen mezi nejlepší polské autory. Jeho povídky vycházely v již zmíněném magazínu, který se po svém zániku přejmenoval na Nowa Fantastyka. Mimo Zaklínače psal Sapkowski i historické fantasy, kde často čerpal z reálných historických kronik. Proto se příběhy odehrávají na území tehdejšího Slezska, Uher, Polska a obsahují historické osobnosti.
+## O autorovi:
+Andrzej Sapkowki, narozen 21. června 1948 v Polsku, je považován za jednoho z nejlepších fantasy spisovatelů současnosti. Jeho knihy jsou mezinárodně známé a daly vzniknout 2 seriálům, filmu a trilogii her. Novější seriál od Netflixu byl společně s hrami vytvořen se Sapkowskiho souhlasem, neboť jim prodal autorská práva. Hry se odehrávají až po celém příběhu knih.
+Sapkowski měl už od mala nadání pro jazyky, a proto po vystudování vysoké školy začal pracovat v oblasti zahraničního obchodu. První povídku s názvem Zaklínač publikoval ve svých 38 letech v magazínu Fantastyke. Postava bělovlasého hrdiny se ihned ujala a již po dvou letech byl Sapkowski řazen mezi nejlepší polské autory. Jeho povídky vycházely v již zmíněném magazínu, který se po svém zániku přejmenoval na Nowa Fantastyka. Mimo Zaklínače psal Sapkowski i historické fantasy, kde často čerpal z reálných historických kronik. Proto se příběhy odehrávají na území tehdejšího Slezska, Uher, Polska a obsahují historické osobnosti.
 
-**Jeho další díla** : Husitská trilogie skládající se z děl: Narrenturm, Boží bojovníci a Lux Perpetua – historický fantasy romány (vyprávějí příběh slezského rytíře, léčitele a mága Reinmara z Bělavy, který se při svém útěku ze Slezska přidal k českým husitům. V dílech se mísí prvky magie, náboženství, historie a husitských válek. Část příběh se odehrává dokonce v hradu Trosky další popisuje bitvu u Ústí, či jiných částí naší země); Yrrhedesovo oko – hra podobná dračímu doupěti (spojuje divadlo, fantasy literaturu a vede čtenáře, aby děj ovlivňoval)
+## Jeho další díla: 
+- Husitská trilogie (Narrenturm, Boží bojovníci a Lux Perpetua)
+	- historický fantasy romány 
+	- vyprávějí příběh slezského rytíře, léčitele a mága Reinmara z Bělavy, který se při svém útěku ze Slezska přidal k českým husitům
+	- V dílech se mísí prvky magie, náboženství, historie a husitských válek.
+	- Část příběh se odehrává dokonce v hradu Trosky další popisuje bitvu u Ústí, či jiných částí naší země)
+- Yrrhedesovo oko
+	- hra podobná dračímu doupěti (spojuje divadlo, fantasy literaturu a vede čtenáře, aby děj ovlivňoval)
 
-**Další autoři:** John Ronald Reuel Tolkien – Pán prstenů, Hobit, Silmaril **lion;** Erich Maria Remarque – Na západní frontě klid; Antoine de Sasint-Exupéry – Malý princ; Ernest Hemmingway – Stařec a Moře; George Orwell – Farma zvířat; Josef Škvorecký – Tankový prapor; Ladislav Fuks – Spalovač mrtvol
+## Další autoři: 
+- J**ohn Ronald Reuel Tolkien**
+	- Pán prstenů, Hobit, Silmarilion 
+- **Erich Maria Remarque** – Na západní frontě klid
+- **Antoine de Sasint-Exupéry** – Malý princ
+- **Ernest Hemmingway** – Stařec a Moře
+- **George Orwell** – Farma zvířat
+- **Josef Škvorecký** – Tankový prapor; Ladislav Fuks – Spalovač mrtvol
 
-**Literární druh a žánr** : Epika, fantasy povídky
+## Literární druh a žánr: 
+Epika, fantasy povídky
 
-**Tématika a charakteristika textu** :
+## Tématika a charakteristika textu:
 
 - Mezilidské vztahy, dobro, zlo, tenká hranice mezi ním
   - Temná strana lidstva – jsou přívětiví, jen když potřebují pomoc, vymýšlejí si monstra, aby si sami nepřipadali jako netvoři, úplaty, zabíjení, intriky, rasismus
@@ -22,18 +38,18 @@ Andrzej Sapkowski
 - Fantastické pojmy (názvy netvorů, rostlin, magie …)
 - Vulgarismy, archaismy
 
-**Hlavní postavy:**
+## Hlavní postavy:
 
 - **Geralt z Rivie** – přezdívaný Bílý vlk a řezník z Blavikenu. Zaklínač, kterému během zkoušky trav a mutací zbělaly vlasy. Po prokletí matkou, která ho nechtěla zaklínačům vydat se z něj nikdy nestal úplný zabiják monster, neboť si uchoval své city, které se často snaží skrývat. Jeho život z něj udělal tvrdého válečníka, se suchým humorem. Má rád ženy, snaží se za peníze lidem pomáhat. Zamilován do Yennefer
 - **Marigold** – Geraltův přítel na cestách, kterého potkal při jedné své práci. Marigold je potulným básníkem a trubadúrem. Rád hraje na loutnu, zpívá, vymýšlí lyriky. Má oblibu v ženách a často je kvůli tomu nenáviděn muži. Přímý opak Geralta, o kterém rád píše básně z jeho cest (samozřejmě přikrášlené)
 - **Yennefer z Vengerbergu** – Panovačná, mocná čarodějka, která touží po moci. Ráda ovládá lidi a vždy dostane to co chce. Přesto cítí ke Geraltovi určitou náklonost (ještě před tím, než je očarována džinem)
 - **Nenneke** – kněžka ve svatyni bohyně Melitelé, zná Geralta od jeho mládí. Ten k ní přichází pokaždé, když je zraněn a chce se někde léčit, neboť Nenneke pěstuje rostliny, které již nikde jinde ve světe nejsou a její znalosti alchymie převyšuji všechny známé smrtelníky.
-- Nivel **–** prokletý šlechtic, který je napůl člověk a napůl zvíře. Poslouchá ho celý jeho dům. Má rád společnost a zamiluje se do upírky, což však netuší.
+- **Nivel** **–** prokletý šlechtic, který je napůl člověk a napůl zvíře. Poslouchá ho celý jeho dům. Má rád společnost a zamiluje se do upírky, což však netuší.
 
-**Děj:**
+## Děj:
 
 **Cesta, z níž není návratu –** Prolog, ve kterém se vyskytují Geraltovi rodiče, ani jednoho z nich později nepotká, jako jejich syn. (Matka ho jednou ošetří, avšak představí se jen jako náhodná léčitelka)
- Vissena je čarodějka z Kruhu (seskupení čarodějů) a přichází do vesnice, kde má zastavit černokněžníka, který drancuje okolí se svou bandou zbojníků a mutuje své hrozivé monstrum, kostěje. Během jejího úkolu se k ní přimotá Korin, potulný rytíř, který se rád bije pro peníze. Společně se rozhodnou zbavit se zbojníků, pomoci tím vesničanů a pak vyřídit kostěje. Lapkové však uzavřou s vesničany příměří, neboť sami podrazí svého vůdce ve spánku, čaroděje Fregenala. Ten Visennu a Korina společně s kovářem zavádí ke své bestii. Zde je podvede a snaží se utéct. Je mu setnuta hlava kovářovou sekerou. Na pomoc výpravě přijíždí i nový velitel banditů, bobolak Klehl. Ten po dlouhém boji umírá i s kostějem. Na konci povídky se znovu v lese shledává Korin s Visennou a společně smilní.
+Vissena je čarodějka z Kruhu (seskupení čarodějů) a přichází do vesnice, kde má zastavit černokněžníka, který drancuje okolí se svou bandou zbojníků a mutuje své hrozivé monstrum, kostěje. Během jejího úkolu se k ní přimotá Korin, potulný rytíř, který se rád bije pro peníze. Společně se rozhodnou zbavit se zbojníků, pomoci tím vesničanů a pak vyřídit kostěje. Lapkové však uzavřou s vesničany příměří, neboť sami podrazí svého vůdce ve spánku, čaroděje Fregenala. Ten Visennu a Korina společně s kovářem zavádí ke své bestii. Zde je podvede a snaží se utéct. Je mu setnuta hlava kovářovou sekerou. Na pomoc výpravě přijíždí i nový velitel banditů, bobolak Klehl. Ten po dlouhém boji umírá i s kostějem. Na konci povídky se znovu v lese shledává Korin s Visennou a společně smilní.
 
 **Hlas rozumu 1 –** Krátká povídka o zaklínači a jeho milence, která voní heřmánkem. Společně leží v temné komnatě a užívají si přítomnost toho druhého.
 
@@ -60,11 +76,3 @@ Andrzej Sapkowski
 **Poslední přání** – Geralt s Marigoldem rybaří a podaří se jim vytáhnout kouzelnou flašku s džinem. Ten po vyvolání Marigolda otráví, zaklínač ho nevědomky odežene svým prvním přáním a s básníkem odjíždí do města vyhledat léčitele. Po příjezdu do Rindy se vloupe do obydlí s mladou čarodějkou Yennefer. Ta Marigolda zachrání, avšak využije Geralta s jehož pomocí chce ztrestat všechny občany města, kteří ji pomlouvali. Sama se následně pokusí ovládnou džina. Aby to bylo možné, musí Geralt vypotřebovat všechna svá přání. Po dlouhém souboji s džinem zaklínač vyslovuje své poslední přání, které se týká pouze jeho a Yen. Zabiják monster, který měl během své proměny ztratit emoce, procitl láskou.
 
 Hlas rozumu 7 – Zaklínače s básníkem přepadají zesměšněná dvojce rytířů Bílé růže se zástupem dalších kumpánů. Geralt je donucen podstoupit souboj na meče, avšak svého mladého a rozverného soka přechytračí. Zajistí totiž, aby se zranil vlastním mečem, čímž souboj končí. Dvojce hlavních postav následně odjíždí.
-
-**Jazykové prostředky:**
-
-- Metafora – ocelové nervy
-- Archaismy -
-- Personifikace – Jejich paprsky se v nich sbíhají.
-- Přirovnání – léčitelky, jako potulné druidky
-- Zhrubění – „Abys praskl, zkurvysynu!"
