@@ -1,7 +1,7 @@
 # Maryša
 **Vilém a Alois Mrštíkovi**
 
-**O autorech
+## O autorech:
 - Alois byl český učitel, publicista, prozaik a dramatik
 	- narodil se 14. října 1861 ve městě Jimramov (Jižní Morava)
 	- vystudoval učitelský ústav v Brně => profesi vykonával v několika jihomoravských obcích
