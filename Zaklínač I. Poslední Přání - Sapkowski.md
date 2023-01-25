@@ -1,11 +1,18 @@
 
 #  Zaklínač I. Poslední Přání
-
-Andrzej Sapkowski
+**Andrzej Sapkowski**
 
 ## O autorovi:
-Andrzej Sapkowki, narozen 21. června 1948 v Polsku, je považován za jednoho z nejlepších fantasy spisovatelů současnosti. Jeho knihy jsou mezinárodně známé a daly vzniknout 2 seriálům, filmu a trilogii her. Novější seriál od Netflixu byl společně s hrami vytvořen se Sapkowskiho souhlasem, neboť jim prodal autorská práva. Hry se odehrávají až po celém příběhu knih.
-Sapkowski měl už od mala nadání pro jazyky, a proto po vystudování vysoké školy začal pracovat v oblasti zahraničního obchodu. První povídku s názvem Zaklínač publikoval ve svých 38 letech v magazínu Fantastyke. Postava bělovlasého hrdiny se ihned ujala a již po dvou letech byl Sapkowski řazen mezi nejlepší polské autory. Jeho povídky vycházely v již zmíněném magazínu, který se po svém zániku přejmenoval na Nowa Fantastyka. Mimo Zaklínače psal Sapkowski i historické fantasy, kde často čerpal z reálných historických kronik. Proto se příběhy odehrávají na území tehdejšího Slezska, Uher, Polska a obsahují historické osobnosti.
+- Andrzej Sapkowki narozen 21. června 1948 v Polsku
+- je považován za jednoho z nejlepších fantasy spisovatelů současnosti.
+- Jeho knihy jsou mezinárodně známé a daly vzniknout 2 seriálům, filmu a trilogii her.
+- Novější seriál od Netflixu byl společně s hrami vytvořen se Sapkowskiho souhlasem, neboť jim prodal autorská práva. Hry se odehrávají až po celém příběhu knih.
+- už od mala měl nadání pro jazyky
+	- po vystudování vysoké školy začal pracovat v oblasti zahraničního obchodu.
+- První povídku s názvem Zaklínač publikoval ve svých 38 letech v magazínu Fantastyke.
+- Postava bělovlasého hrdiny se ihned ujala a již po dvou letech byl Sapkowski řazen mezi nejlepší polské autory. 
+- Jeho povídky vycházely v již zmíněném magazínu, který se po svém zániku přejmenoval na Nowa Fantastyka. 
+- Mimo Zaklínače psal Sapkowski i historické fantasy, kde často čerpal z reálných historických kronik. Proto se příběhy odehrávají na území tehdejšího Slezska, Uher, Polska a obsahují historické osobnosti.
 
 ## Jeho další díla: 
 - Husitská trilogie (Narrenturm, Boží bojovníci a Lux Perpetua)

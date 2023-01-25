@@ -1,6 +1,5 @@
 
 # Stařec a moře
-
 **Ernest Hemingway**
 
 ## O autorovi:

@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zaklínač I. Poslední Přání - Sapkowski.md",
+                "file": "Revizor - Gogol.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "42fae3cdde26bf38",
+            "id": "74b3c95e022ec292",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bílá nemoc - Čapek.md",
+                "file": "Romeo a Julie - Shakespeare.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "10e8eaf93aaef62f",
+            "id": "f120d3a918132825",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,79 +44,19 @@
             }
           },
           {
-            "id": "30b58b53ee6b38e9",
+            "id": "dee29656484500a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Malý princ - Saint-Exupéry.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e819190ef77c2d55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsluhoval jsem anglického krále - Hrabal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ae854dc91648c9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ostře sledované vlaky - Hrabal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a3c23c0d5d1f90c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kulička - Maupassant.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e3725ce19378e88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Na západní frontě klid - Remarque.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71518b4cbe311b36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stařec a moře - Hemingway.md",
+                "file": "Romeo a Julie - Shakespeare.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -162,13 +102,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 216.5,
-    "collapsed": true
+    "width": 232.5
   },
   "right": {
     "id": "36de689b384b58d4",
@@ -184,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stařec a moře - Hemingway.md",
+                "file": "Romeo a Julie - Shakespeare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stařec a moře - Hemingway.md",
+                "file": "Romeo a Julie - Shakespeare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stařec a moře - Hemingway.md"
+                "file": "Romeo a Julie - Shakespeare.md"
               }
             }
           }
@@ -245,17 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71518b4cbe311b36",
+  "active": "dee29656484500a9",
   "lastOpenFiles": [
-    "Na západní frontě klid - Remarque.md",
-    "Stařec a moře - Hemingway.md",
-    "Untitled.md",
-    "Kulička - Maupassant.md",
-    "Obsluhoval jsem anglického krále - Hrabal.md",
-    "Ostře sledované vlaky - Hrabal.md",
-    "Malý princ - Saint-Exupéry.md",
+    "Němá barikáda - Drda.md",
+    "README.md",
+    "Maryša - bratři Mrštíkové.md",
     "Evžen Oněgin - Puškin.md",
-    "Bílá nemoc - Čapek.md",
-    "Zaklínač I. Poslední Přání - Sapkowski.md"
+    "Krysař - Dyk.md",
+    "Romeo a Julie - Shakespeare.md",
+    "Revizor - Gogol.md",
+    "Lakomec - Moliére.md",
+    "Zaklínač I. Poslední Přání - Sapkowski.md",
+    "Těžká hodina - Wolker.md"
   ]
 }
