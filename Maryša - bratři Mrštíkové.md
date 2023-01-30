@@ -19,12 +19,31 @@
 	- zemřel 1912.
 
 ## Mezi další díla těchto autorů patří:
-Verunka, Zumři, Dobré duše a Rok na vsi (románová kronika o vesnickém životě během proudu času – vyskytují se zde zvyky, tradice, obyčeje a vesnická zábava)
+- Rok na vsi 
+	- románová kronika o vesnickém životě během proudu času
+	- vyskytují se zde zvyky, tradice, obyčeje a vesnická zábava
+	- fiktivní moravská vesnice
+- Pohádka máje (Vilém)
+	- román o citovém zrání mladé dvojce
+	- upřímnost a láska děvčete probudí lepší stránky chlapcovy povahy => přestane být lehkomyslný
+- Zumři (Vilém)
+	- autorova snaha překonat impresionismus => návrat k objektivitě a charakteristice zevnějšku
+	- studenský román => vykresluje prostředí pražských studentů a drobných řemeslníků
 
 ## Další autoři:
 - Alois Jirásek
-	- Skaláci
+	- Psohlavci
+		- odkaz na přezdívku Chodů (vzniklá ze středověké nadávky)
+		- odehrává se krátce po bitvě na Bílé hoře
+		- skupina obyvatel, která střeží hranice mezi Čechami a Bavorskem
 	- Staré pověsti české
+		- fiktivní příběhy z českých dějin
+		- kniha pro mládež
+- Josef Václav Sládek
+	- Básně
+		- antalogie
+		- rané sbírky, později vyzrálejší tvorba 
+		- inspiroval se cesetou do Ameriky a chmurným obdobím po smrti své manželky při porodu 
 - Zikmund Winter
 	- Rozina Sebranec 
 		- temperamentní dívka

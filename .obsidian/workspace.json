@@ -4,52 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "8158e928aeb1da80",
+        "id": "21ac9462a7a3dfa7",
         "type": "tabs",
         "children": [
           {
-            "id": "4fd6f38d0afba04f",
+            "id": "ebd7586c4e97b76f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revizor - Gogol.md",
+                "file": "Přehled uměleckých směrů.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "74b3c95e022ec292",
+            "id": "4c3b89635514ee9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Romeo a Julie - Shakespeare.md",
+                "file": "Weby_maturitni_otazky/Konceptuální návrh databáze.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f120d3a918132825",
+            "id": "45d9309c7776f3b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evžen Oněgin - Puškin.md",
+                "file": "Weby_maturitni_otazky/Jazyk SQL.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dee29656484500a9",
+            "id": "9d29d07c0ce281b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maryša - bratři Mrštíkové.md",
+                "file": "Weby_maturitni_otazky/Výběr dat v SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 200
   },
   "right": {
     "id": "36de689b384b58d4",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maryša - bratři Mrštíkové.md",
+                "file": "Weby_maturitni_otazky/Výběr dat v SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maryša - bratři Mrštíkové.md",
+                "file": "Weby_maturitni_otazky/Výběr dat v SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maryša - bratři Mrštíkové.md"
+                "file": "Weby_maturitni_otazky/Výběr dat v SQL.md"
               }
             }
           }
@@ -183,17 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dee29656484500a9",
+  "active": "9d29d07c0ce281b3",
   "lastOpenFiles": [
-    "Romeo a Julie - Shakespeare.md",
-    "Němá barikáda - Drda.md",
-    "README.md",
+    "Weby_maturitni_otazky/Jazyk SQL.md",
+    "Weby_maturitni_otazky/Konceptuální návrh databáze.md",
+    "Images/Pasted image 20230128102256.png",
+    "Obsluhoval jsem anglického krále - Hrabal.md",
+    "Images/Pasted image 20230128102654.png",
+    "Bílá nemoc - Čapek.md",
+    "Přehled uměleckých směrů.md",
     "Maryša - bratři Mrštíkové.md",
-    "Evžen Oněgin - Puškin.md",
-    "Krysař - Dyk.md",
-    "Revizor - Gogol.md",
-    "Lakomec - Moliére.md",
-    "Zaklínač I. Poslední Přání - Sapkowski.md",
-    "Těžká hodina - Wolker.md"
+    "Romeo a Julie - Shakespeare.md",
+    "Němá barikáda - Drda.md"
   ]
 }
