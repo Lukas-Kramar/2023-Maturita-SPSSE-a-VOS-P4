@@ -1,6 +1,6 @@
-# Maturitni_deniky
+# Maturitni_deniky + oborové otázky
 
-Vypracované maturitní deníky pro rok 2023
+Vypracované maturitní deníky a WEB + PRG + MIT + OPS otázky pro rok 2023
 ## Seznam:
 **Česká a světová literatura do konce 18. století**
 

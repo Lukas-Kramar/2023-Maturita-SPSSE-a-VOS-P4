@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "21ac9462a7a3dfa7",
+        "id": "d0ebc3088c14e20b",
         "type": "tabs",
         "children": [
           {
-            "id": "ebd7586c4e97b76f",
+            "id": "b2a044dff92b86d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Přehled uměleckých směrů.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c3b89635514ee9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Weby_maturitni_otazky/Konceptuální návrh databáze.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45d9309c7776f3b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Weby_maturitni_otazky/Jazyk SQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d29d07c0ce281b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Weby_maturitni_otazky/Výběr dat v SQL.md",
+                "file": "Angličtina/Temata_speaking/18.  Everyday life.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 258.5
   },
   "right": {
     "id": "36de689b384b58d4",
@@ -122,8 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weby_maturitni_otazky/Výběr dat v SQL.md",
-                "collapseAll": false,
+                "file": "Angličtina/Temata_speaking/18.  Everyday life.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weby_maturitni_otazky/Výběr dat v SQL.md",
+                "file": "Angličtina/Temata_speaking/18.  Everyday life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weby_maturitni_otazky/Výběr dat v SQL.md"
+                "file": "Angličtina/Temata_speaking/18.  Everyday life.md"
               }
             }
           }
@@ -183,17 +146,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d29d07c0ce281b3",
+  "active": "b2a044dff92b86d8",
   "lastOpenFiles": [
-    "Weby_maturitni_otazky/Jazyk SQL.md",
-    "Weby_maturitni_otazky/Konceptuální návrh databáze.md",
-    "Images/Pasted image 20230128102256.png",
-    "Obsluhoval jsem anglického krále - Hrabal.md",
-    "Images/Pasted image 20230128102654.png",
-    "Bílá nemoc - Čapek.md",
-    "Přehled uměleckých směrů.md",
-    "Maryša - bratři Mrštíkové.md",
-    "Romeo a Julie - Shakespeare.md",
-    "Němá barikáda - Drda.md"
+    "Angličtina/Témata - rozcestník.md",
+    "Angličtina/Temata_speaking/19. Mass media.md",
+    "Angličtina/Temata_speaking/18.  Everyday life.md",
+    "Untitled.md",
+    "().md",
+    "MIT_maturitni_otazky/Využití GPU pro negrafické výpočty.md",
+    "Images/Pasted image 20230322123620.png",
+    "Images/Pasted image 20230322122741.png",
+    "Images/Pasted image 20230322122753.png",
+    "Angličtina/Temata_speaking/4. Our school (české školy).md",
+    "[[18..md",
+    "18..md",
+    "Angličtina/Průběh ústní zkoušky B1.md",
+    "Angličtina/Temata_speaking/1. People - Personal ID.md",
+    "Angličtina/Temata_speaking/2. Family and relationships.md",
+    "OPS_maturitni_otazky/6. Sítě standardu IEEE 802.11.md",
+    "OPS_maturitni_otazky/5. VLAN (návrh podnikové sítě).md",
+    "OPS_maturitni_otazky/11. Směrování.md",
+    "OPS_maturitni_otazky/10. Zabezpečení komunikace (ACL).md",
+    "OPS_maturitni_otazky/13. Spolehlivá síť (STP, Etherchannel, FHRP).md",
+    "Images/Pasted image 20230322123743.png",
+    "Images/Pasted image 20230322123557.png",
+    "Angličtina/Temata_speaking/5. Education.md",
+    "Angličtina/Temata_speaking/6. Work.md",
+    "Angličtina/Temata_speaking/7. Food, eating out.md",
+    "Angličtina/Temata_speaking/8. Shopping.md",
+    "Angličtina/Temata_speaking/9. Services.md",
+    "Angličtina/Temata_speaking/10. Traveling and tourism.md",
+    "Angličtina/Sloh.md",
+    "Angličtina/Sloh",
+    "Angličtina/Temata_speaking/12. Culture.md",
+    "Angličtina/Temata_speaking/13. Free time.md",
+    "Images/Pasted image 20230313112942.png",
+    "Angličtina/Temata_speaking",
+    "Angličtina",
+    "Images/Pasted image 20230307175310.png",
+    "Images/Pasted image 20230306165302.png",
+    "Images/Pasted image 20230311174043.png",
+    "Images/Pasted image 20230306140947.png"
   ]
 }
